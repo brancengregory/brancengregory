@@ -1,15 +1,15 @@
-Brancen Gregory
-================
-Brancen Gregory
-2022-05-17
+---
+title: "Brancen Gregory"
+author: "Brancen Gregory"
+date: "`r Sys.Date()`"
+format: gfm
+---
 
-### Hey y’all 👋
+### Hey y'all 👋
 
--   🌎 I’m currently based in Ann Arbor, but am always living on Tvlsa
-    time.
--   💻 I turn words 📚 into numbers 🧮 into pictures 📊 into words 📄,
-    and so on.
--   ✊ A better world is possible, and it’s already started.
+- 🌎 I'm currently based in Ann Arbor, but am always living on Tvlsa time.
+- 💻 I turn words 📚 into numbers 🧮 into pictures 📊 into words 📄, and so on.
+- ✊ A better world is possible, and it's already started.
 
 <!--
 **brancengregory/brancengregory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
