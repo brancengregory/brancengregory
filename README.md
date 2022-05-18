@@ -1,9 +1,5 @@
-Brancen Gregory
-================
-Brancen Gregory
-2022-05-17
 
-### Hey y’all 👋
+# Hey y’all 👋
 
 -   🌎 I’m currently based in Ann Arbor, but am always living on Tvlsa
     time.
