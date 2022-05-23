@@ -1,7 +1,7 @@
 
 ## Hey y’all 👋
 
--   🌎 I’m currently based in Ann Arbor, but am always living on Tvlsa
+-   🌎 I’m currently based in Ann Arbor, but am always living on Tvlse
     time.
 -   💻 I turn words 📚 into numbers 🧮 into pictures 📊 into words 📄,
     and so on.

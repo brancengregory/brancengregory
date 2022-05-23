@@ -4,7 +4,7 @@ format: gfm
 
 ## Hey y'all 👋
 
-- 🌎 I'm currently based in Ann Arbor, but am always living on Tvlsa time.
+- 🌎 I'm currently based in Ann Arbor, but am always living on Tvlse time.
 - 💻 I turn words 📚 into numbers 🧮 into pictures 📊 into words 📄, and so on.
 - ✊ A better world is possible, and it's already started.
 
