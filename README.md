@@ -5,7 +5,7 @@
     time.
 -   💻 I turn words 📚 into numbers 🧮 into pictures 📊 into words 📄,
     and so on.
--   ✊ A better world is possible, and it’s already started.
+-   ✊ A better world is possible, and it’s already begun.
 
 <!--
 **brancengregory/brancengregory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
