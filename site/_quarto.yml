@@ -6,6 +6,7 @@ website:
   navbar:
     right:
       - posts.qmd
+      - projects.qmd
       - icon: github
         href: https://github.com/brancengregory
       - icon: twitter
