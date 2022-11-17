@@ -1,7 +1,7 @@
 
 ## Hey y’all 👋
 
--   Research Director (@okpolicy)[https://github.com/okpolicy] & (@openjusticeok)[https://github.com/openjusticeok]
+-   Research Director [@okpolicy](https://github.com/okpolicy) & [@openjusticeok](https://github.com/openjusticeok)
 -   🌎 I’m currently based in Ann Arbor, but am always living on Tvlse
     time.
 -   💻 I turn words 📚 into numbers 🧮 into pictures 📊 into words 📄,
